@@ -1,2 +1,2 @@
 # penetration-testing-codes
-Codes helpful to do penetration testing
+Codes helpful for penetration testing
